@@ -1,0 +1,11 @@
+Podnosilac predstavke, Dalibor Živić je srpski državljanin, rođen 1975. godine i živi u Kosovskoj Mitrovici (Kosovo). Zaposlen je kao policijski službenik u Ministarstvu unutrašnjih poslova Srbije. 2000. i 2003. godine Vlada je usvojila dve odluke, dopuštajući da zarade zaposlenih koji žive i rade na Kosovu budu udvostručene. Pozivajući se na član 6-1 Konvencije (pravo na pravično suđenje), podnosilac predstavke se žali na odluke domaćih sudova koje se tiču njegovog zahteva u kojem je tražio isplatu razlike između dobijenog povećanja i onog koje je Vlada utvrdila. Zahtev podnosioca predstavke je bio odbijen, dok su mnogobrojni zahtevi bili uspešni od strane njegovih kolega, iako su zasnovani na istim činjenicama i istom pravnom osnovu.
+s2s-00003000.h5, 2007 , predviđeno, 8 , zemalja, protiv, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003100.h5, nedozvoljena, događaja vraćajući, takvu, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003200.h5, lek član, navodima, predstavke krivični, je , bioskop , legitimnog, mada, policija, plati , {'r': 0.02247191011235955, 'p': 0.16666666666666666, 'f': 0.03960395830212735}
+s2s-00003300.h5, zatvorenika, kćerkom, (inkompatibilna, majkom, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003400.h5, obaveštena, (pretpostavka, zemljišni, video, odbijen , 21 maja, preispitivanje , otac, odveden, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003500.h5, zaključili, izvesnosti , ipak , presude, član, predat, zakona navodna, {'r': 0.011235955056179775, 'p': 0.1111111111111111, 'f': 0.02040816159725128}
+s2s-00003600.h5, nasuprot, 2003 , pretio, nehigijenske, naložiti, ovlašćenje , {'r': 0.011235955056179775, 'p': 0.14285714285714285, 'f': 0.020833331981336894}
+s2s-00003700.h5, vatreno, učinjeni, lišenja, medjuvremenu , pozvan, „porodičnog, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003800.h5, pet, strane, prekršeni, štednog, {'r': 0.011235955056179775, 'p': 0.2, 'f': 0.021276594737437805}
+s2s-00003900.h5, da, 33 , dan, {'r': 0.011235955056179775, 'p': 0.25, 'f': 0.021505375520869494}

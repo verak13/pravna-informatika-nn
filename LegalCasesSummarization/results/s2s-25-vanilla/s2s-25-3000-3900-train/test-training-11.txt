@@ -1,0 +1,11 @@
+U predmetu Mikulić protiv Hrvatske, Europski sud za ljudska prava (Prvi odjel), zasjedajući kao vijeće u sastavu: g. C. L. ROZAKIS, predsjednik g. F. TULKENS, g. P. LORENZEN, g đa N. VAJIĆ, g. E. LEVITS, g. A. KOVLER, g. V. ZAGREBELSKY, suci, i g. E. FRIBERGH, tajnik Odjela, nakon vijećanja zatvorenog za javnost održanog 17. siječnja 2002., donosi sljedeću presudu koja je usvojena 17. siječnja 2002. : POSTUPAK 1. Zakazan je pregled u mjerodavnoj klinici za 21. svibnja 1999., no H.P. Ročište zakazano za 14. srpnja 1998. odgođeno je jer je punomoćnik H.P.-a umro. Konvencije, čiji mjerodavni dio glasi kako slijedi: Radi utvrđivanja svojih prava i obaveza građanske naravi..., svatko ima pravo da...sud...u razumnom roku ispita njegov slučaj A. Razdoblje koje treba uzeti u obzir 36. 13, stavak 33. i presudu u predmetu Keegan v. Ireland od 26. svibnja 1994., Serija A br.
+s2s-00003000.h5, zatvora , zatvorenicima, izmedju, regionalnom, prvobitno, neljudskog, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003100.h5, celo, premesti, razmatra, ustavni, prihvatio, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003200.h5, ključ , potčinjenih, mogao, promet, hrvatski, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003300.h5, 15, tada, n  , {'r': 0.00847457627118644, 'p': 0.2, 'f': 0.016260161821667035}
+s2s-00003400.h5, 4:, 300, ključ , rizika, ekipa , ustanovi , upravni, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003500.h5, odlukama, legeovaj, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003600.h5, zaključci, bugarskog, tog, namernom, aplikanata , oblasno, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003700.h5, direktor, pravnom, troškova , nanelo, preduzeća, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003800.h5, iznosa:5 , pdv, obavezan, prihvata, nanete, snazi, neotkrivanje, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003900.h5, lišavanje, tokom, dve, štete , zakonu , prosledio, {'r': 0.0, 'p': 0.0, 'f': 0.0}

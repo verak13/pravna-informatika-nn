@@ -1,0 +1,11 @@
+Dana 16. januara 2008. godine X se nije pojavio pred sudom. Dana 15. decembra 2009. godine podnositeljka predstavke uložila je novi kontrolni zahtjev po Zakonu iz 2006. godine. Dana 16. maja 2006. godine istražni sudija odredio je vještaka ginekologa B. da utvrdi vjerovatnoću da je podnositeljka predstavke imala seksualni odnos u periodu između jula i decembra 2001. godine. Slovenija je potpisala Konvenciju 8. septembra 2011. godine, ali ona još nije ratifikovana. ... Zbog ovih posljedica, koje su najteže u psihološkoj sferi... od veoma je marginalnog značaja da li je tokom nasilnog ponašanja počinioca dijete žrtva zaista prošlo kroz defloraciju himena ili nije... Obrasce seksualnog ponašanja može na pravi način ocijeniti samo stručnjak za kliničku psihologiju... 24.
+s2s-00003000.h5, mogao, pregledali, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003100.h5, takodje, oslanjajući, oslobađajuću, zbog, predstavništvo, prostu, {'r': 0.00975609756097561, 'p': 0.2857142857142857, 'f': 0.018867923889729462}
+s2s-00003200.h5, upisa, 15 000, upravnik, odvjetništvu, konvenciju , ilioupolisu , oružje, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003300.h5, vlade , medeicinska, konvencija, njegovoj, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003400.h5, prvostepenog, pritvoru, odsluženju, prethodni, galicija , dubio, kuću, tužena, {'r': 0.004878048780487805, 'p': 0.1111111111111111, 'f': 0.009345793586776207}
+s2s-00003500.h5, pretvorila, ranijeg, ličnu, ponižavajućem, pojam, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003600.h5, da:(a), 1937 godine, nadležnom, slučaj:-, {'r': 0.004878048780487805, 'p': 0.16666666666666666, 'f': 0.009478672433233788}
+s2s-00003700.h5, mera , 33 , ispunjava, nastupila, istraživanje, sudski, moraju, uputi, odsustvo, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003800.h5, činjenica, tvrditi, pitanjem, školu , {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003900.h5, mera , oktjabrskog, predjašnje, ombudsmana, ti, označeno, suda , stručnjaka , optužnica, 2003  , {'r': 0.00975609756097561, 'p': 0.16666666666666666, 'f': 0.018433178678672363}

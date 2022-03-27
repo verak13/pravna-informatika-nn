@@ -1,0 +1,11 @@
+(4) Svaka prostorija.....mora imati dnevno i umjetno svjetlo..... (5) Kaznionice i zatvori moraju imati sanitarne uređaje koji omogućuju obavljanje fizioloških potreba u čistim i primjerenim uvjetima kad god to zatvorenici žele. Dana 1. studenog 2004. godine Sud je izmijenio sastav svojih Odjela (Pravilo 25., stavak 1.). To se posebno odnosilo na neobnovljena krila... CPT preporuča da se poduzmu ozbiljni napori kako bi se smanjio broj zatvorenika po jednoj sobi u zatvorenom dijelu Kaznenog zavoda Lepoglava... b. režim 61. Podnositelj zahtjeva ostao je u KZL do 27. rujna 1995. godine kad je prebačen u drugi zatvor. Sastavljeno na engleskome jeziku i otpravljeno u pisanom obliku dana 9. ožujka 2006. godine u skladu s pravilom 77. stavcima 2. i 3.
+s2s-00003000.h5, okolnosti, društvu, primenu, živelo, slobode sud, nematerijalne, {'r': 0.0053475935828877, 'p': 0.125, 'f': 0.01025640946955956}
+s2s-00003100.h5, pretrese, podnositeljice, prakse, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003200.h5, braku, celu, javnim, navoda, dosije, vojne, izvršeno, ponovnog, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003300.h5, odgovornosti, rehabilitaciju, preduzeće, situacijama , 7 30, domu, ostvarenju, podneti, obavljanje, ćerke, {'r': 0.0106951871657754, 'p': 0.16666666666666666, 'f': 0.020100501379258166}
+s2s-00003400.h5, imunodeficijencije, otvorena, vođa, trpeli, muža, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003500.h5, time, većine, zastupnika , crimen , {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003600.h5, odlukama, pregledu, propisan, sofije, „porodične”, predmetnim, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003700.h5, faktoru, osuđen, supruge, ratione, ćelije, agentima, štednjom, {'r': 0.0053475935828877, 'p': 0.125, 'f': 0.01025640946955956}
+s2s-00003800.h5, odnosima , zamenu, školu:, pružila, pomilovanja , {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003900.h5, prva, stroža, izreći, zaključila, čija, vezi, članovima zaključak:, {'r': 0.0, 'p': 0.0, 'f': 0.0}

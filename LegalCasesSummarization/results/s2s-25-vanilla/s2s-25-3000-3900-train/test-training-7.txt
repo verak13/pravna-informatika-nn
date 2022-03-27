@@ -1,0 +1,11 @@
+Konvencije, koji propisuje kako slijedi: “Radi utvrđivanja svojih prava i obveza građanske naravi....svatko ima pravo...da sud...u razumnom roku...pravično... ispita njegov slučaj.” Kao prvo, tvrde da im je uskraćeno pravo pristupa sudu jer je Općinski sud u Zagrebu prekinuo postupak sukladno izmjenama i dopunama Zakona o obveznim odnosima. Rozakis, predsjednik, g. G. Bonello, g. P. Lorenzen, gđa N. Vajić, gđa S. Botoucharova, g. V. Zagrebelsky gđa E. Steiner, suci, i g. E. Fribergh, tajnik Odjela, nakon vijećanja zatvorenog za javnost održanog 4. listopada 2001. i 21. veljače 2002. godine, donosi sljedeću presudu koja je usvojena 21. veljače 2002.: POSTUPAK 1. “Postupak se prekida: ... 6) kad je to drugim zakonom određeno.” PRAVO I. NAVODNA POVREDA ČLANKA 6. Postupci su prekinuti rješenjem Općinskog suda u Zagrebu od 24. travnja 1998. odnosno 19. srpnja 2000. godine. Dana 26. prosinca 1991., kuća podnositelja zahtjeva u selu Martinec (Hrvatska) uništena je uslijed eksplozije.
+s2s-00003000.h5, ročišta, sačuvala , grčkim, dogodio, protumačio, stoji, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003100.h5, pozvala, zanimanju, izvršnom, primenu, tuženi , juna, postupku , {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003200.h5, 3-, opasnost, sina, usvajanje , poočima, konvencije, {'r': 0.009174311926605505, 'p': 0.14285714285714285, 'f': 0.017241378176278317}
+s2s-00003300.h5, republiku, legitimnog, predmetnih, komesara , saglasno, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003400.h5, isteka, zdravlju, pritvorenike u, pošto, corpus, {'r': 0.009174311926605505, 'p': 0.14285714285714285, 'f': 0.017241378176278317}
+s2s-00003500.h5, njihovu, platu, tužilaštva, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003600.h5, neprihvatljivih, koloniju, desila, preduzeću, prevedena , svojom, pozivati, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003700.h5, prekidu, 2007 godine u, skraćenje, jako, koegzistira, godina), {'r': 0.027522935779816515, 'p': 0.3333333333333333, 'f': 0.050847456218040835}
+s2s-00003800.h5, obustavljen, položila, obustave, otela, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003900.h5, odvojeni, bakom , (10:7), {'r': 0.0, 'p': 0.0, 'f': 0.0}

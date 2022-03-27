@@ -1,0 +1,11 @@
+Konvencije čiji mjerodavni dijelovi glase kako slijedi: “Radi utvrđivanja svojih prava i obveza građanske naravi....svatko ima pravo...da sud...u razumnom roku ispita njegov slučaj“ 24. U predmetu Aćimović protiv Hrvatske, Europski sud za ljudska prava (Prvi odjel), zasjedajući u vijeću u sastavu: g. C. L. ROZAKIS, predsjednik, g. P. LORENZEN, g. G. BONELLO, gđa N. VAJIĆ, gđa S. BOTOUCHAROVA, g. V. ZAGREBELSKY, gđa E. STEINER, suci, i g. S. NIELSEN, zamjenik tajnika Odjela nakon vijećanja zatvorenog za javnost 18. rujna 2003. godine, donosi sljedeću presudu koja je usvojena tog datuma: POSTUPAK 1. Sastavljeno na engleskom jeziku i otpravljeno u pisanom obliku dana 9. listopada 2003. u skladu s pravilom 77. stavcima 2. i 3. IZ TIH RAZLOGA, SUD JEDNOGLASNO 1. presuđuje da je došlo do povrede članka 6. stavka 1. Dana 21. studenoga 1997. podnositelj zahtjeva žalio se protiv te odluke Županijskom sudu u Zagrebu.
+s2s-00003000.h5, zatvorenicima, verbalni, zakonito , poseti, zajedno, sofiji , ipak, takodje , {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003100.h5, identifikuju, nalazili, podigne, nepogodi, razbijanja, dužinu, kakvim, podizalo, lekar, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003200.h5, psihijatrijski, proglašen, šest, presudu, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003300.h5, žali, (psihijatrijski, 41) , attici, površina, priložio, upravlja, b j  , {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003400.h5, saslušana, odgovornost, mora, automatskog, sebi, stanovništvo, del, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003500.h5, trebalo, okrivljenog, gđa, kontrolisao, tužio, m2, konstatovao, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003600.h5, izvesni, presuda, domovi, ministara, podnelo, stručnjaka, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003700.h5, puštena, skrenuo, nasuprot, pristupila, izmene, ona , {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003800.h5, indirektnu, 7 , hitno, školu, g , sledeće, 30 000, vlade, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003900.h5, poočima, gonjenje , {'r': 0.0, 'p': 0.0, 'f': 0.0}

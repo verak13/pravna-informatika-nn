@@ -1,0 +1,11 @@
+Savet ministara Saveta Evrope, inter alia, je naveo: i) da je Srbija.... [nastavila].... članstvo [državne zajednice] Srbija i Crna Gora u Savetu Evrope počev od 3. juna 2006, i ii) da je ostala strana u određenom broju konvencija Saveta Evrope koje je potpisala i ratifikovala bivša državna zajednica Srbija i Crna Gora, uključujući i Konvenciju za zaštitu ljudskih prava i osnovnih sloboda. 2. aprila 2004. tročlano veće Okružnog suda u Novom Sadu produžilo je pritvor podnosiocu predstavke za još dva meseca. 30, § 56, Minelli v. Švajcarske, presuda od 25. marta 1983, Serija A br. Podnosilac predstavke je podsetio da je svoju predstavku dostavio Sudu 20. maja 2004. i da je tužena Vlada tada priznala da Sud Srbije i Crne Gore nije radio pre 7. jula 2004. D. POPOVIĆ, i g-đa S. DOLLÉ, sekretar odeljenja Posle većanja bez prisustva javnosti 29. avgusta 2006, donosi sledeću presudu, koja je usvojena tog dana: POSTUPAK 1.
+s2s-00003000.h5, naređeno, probudila , vikale, ustanovi , škole, pretrpela, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003100.h5, zadnji, služe, da , dao, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003200.h5, općinsko, presedana, nematerijalne, predstavke , osuđenog -, {'r': 0.017543859649122806, 'p': 0.14285714285714285, 'f': 0.031249998051757936}
+s2s-00003300.h5, nečinjenjem, namere, sprat , žena , izvesti, uđu, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003400.h5, psihijatar, status, državnoj, devojčice , zasnovani, uzima, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003500.h5, pravima slučaj, n , baš, banjoj, povezanost, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003600.h5, „starom“, nepoznatih, rođeni, probudila , pozive, kada, pravu , {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003700.h5, agenata , porodice, nestalom, osnovani, sirije, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003800.h5, ušao, poremećenim, oštećene, nalozima, nalazio, dovoljnom, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003900.h5, 3:, novim, 2010 godine, pravnosnažna, za, ujutru , {'r': 0.017543859649122806, 'p': 0.125, 'f': 0.03076922861065104}

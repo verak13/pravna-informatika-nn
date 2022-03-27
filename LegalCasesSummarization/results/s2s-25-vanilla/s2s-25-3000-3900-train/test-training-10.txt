@@ -1,0 +1,11 @@
+Općinsko državno odvjetništvo u Zagrebu je 23. siječnja 2014. godine obavijestilo odvjetnika Š.Š., L.K., o pokretanju postupka pred Općinskim kaznenim sudom u Zagrebu. ... (4) ... [K]azneno djelo iz stavka 2. ovoga članka progoni se po prijedlogu [žrtve], osim kaznenog djela počinjenog iz mržnje, ... [koje se progoni po službenoj dužnosti].” 2. ... ... (4) Ako državni odvjetnik ustanovi da nema osnova za pokretanje ili provođenje kaznenog progona, na njegovo mjesto može stupiti oštećenik kao tužitelj uz uvjete određene ovim Zakonom.” 30. U međuvremenu, 29. srpnja 2013. godine podnositeljica zahtjeva i njezin partner, zastupani po odvjetnici L.K., podnijeli su kaznenu prijavu Općinskom državnom odvjetništvu u Zagrebu protiv dvojice nepoznatih osumnjičenika u vezi s incidentom od 9. lipnja 2013. godine (vidjeti odlomke 6.-13. gore). riječi prijetećeg sadržaja upućivali Š.Š.,, a ne Maji Škorjanec ... iz zapisnika o ispitivanju svjedok nje Maje Škorjanec, u kojeg je izvršen uvid, ne proizlazi da bi S.K.
+s2s-00003000.h5, održavanju, vanredni, dovode, kuće , {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003100.h5, vratila, psihički, nalozima, povezano, gđice, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003200.h5, povlastice , smeštanja, kaznenog, mesta -, {'r': 0.005952380952380952, 'p': 0.16666666666666666, 'f': 0.011494252207689298}
+s2s-00003300.h5, razmatrani, perioda, sirije, desilo, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003400.h5, nalagala, održavanju, adresa, druge, članova, garaža, poniženja , {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003500.h5, trebalo, parnicu, slučaju , osnuje, proverile, utvrdjuje, učini, {'r': 0.005952380952380952, 'p': 0.125, 'f': 0.011363635495867833}
+s2s-00003600.h5, kršenja, pravne, utvrdjivanje, na, pretio, nepovratna;, {'r': 0.005952380952380952, 'p': 0.14285714285714285, 'f': 0.011428570660571478}
+s2s-00003700.h5, državljanina , tužbu, lišenih, raskid, savesnom, 39, radio , trećeg, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003800.h5, domaćem, obustave, zastraši, poučena, umiru, bolnice podnosilac, uveri, {'r': 0.005952380952380952, 'p': 0.1111111111111111, 'f': 0.011299434063008797}
+s2s-00003900.h5, spisa, stanica, okolnosti, zlostavljanje , ukoliko, spratu, {'r': 0.0, 'p': 0.0, 'f': 0.0}

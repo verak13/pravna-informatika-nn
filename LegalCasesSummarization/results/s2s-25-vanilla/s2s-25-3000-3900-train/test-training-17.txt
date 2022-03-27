@@ -1,0 +1,11 @@
+Sačinjena na engleskom i francuskom, te saopćena u pismenoj formi 5. februara 2015. godine u skladu s pravilom 77. st. 2. i 3. Žalbene navode o izostanku objektivnosti (...) je predočio samo gosp. Osim toga, njegovo obrazloženje koje se odnosi na ishod prethodne predstavke je u suprotnosti sa zaključcima Suda iz presude od 3. maja 2007. godine (vidi, st. 13. i 18. gore). Konvencije koju je ustanovio Sud u svojoj presudi donesenoj 2007. godine se moraju proglasiti inkompatibilnim ratione materiae s Konvencijom u skladu sa članom 35. st. 3. tačka (a) i 4. U vezi s pitanjem poštivanja zahtjeva iz člana 6. stav 1. u ovom predmetu, Sud ističe da je žalbeni navod podnositeljice perdstavke o nepravičnosti usmjeren konkretno protiv obrazloženja Vrhovnog suda u odluci od 14. marta 2008. godine.
+s2s-00003000.h5, smatrao, podneta, ukoliko, juna, tvrditi, tvrdeći , {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003100.h5, događaja , izloženi, tvrdili, desila, 2004, 22, dogadjaja, kada, zapaža, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003200.h5, njihovo, 1973 g , devojčicama , protestante, roka , {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003300.h5, ombudsman, ličnosti, jovanović, god, (podnosilac, propusta, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003400.h5, preduzele, 1995 godine , spavaću, nastavio, {'r': 0.004484304932735426, 'p': 0.16666666666666666, 'f': 0.00873362394386075}
+s2s-00003500.h5, greškom, zastupnika , podigne, bande, k n , čuvare , pomenuti, {'r': 0.004484304932735426, 'p': 0.1111111111111111, 'f': 0.008620688909408508}
+s2s-00003600.h5, vaspitavao, postoji , takav, 2007 , zakonom podnositeljka, godine postupak, bile, zavodu, {'r': 0.008968609865470852, 'p': 0.18181818181818182, 'f': 0.01709401619804227}
+s2s-00003700.h5, predstavke , kombinaciji, navedenim, konvenciju, navodna, obratio, s, {'r': 0.008968609865470852, 'p': 0.25, 'f': 0.017316016647364204}
+s2s-00003800.h5, lišen, cpt-a evropski, gutsanova, akumuliraju , {'r': 0.004484304932735426, 'p': 0.16666666666666666, 'f': 0.00873362394386075}
+s2s-00003900.h5, slobode , držanje, postupku , razbijanja, uniformi, nikakav, izostanka , {'r': 0.0, 'p': 0.0, 'f': 0.0}

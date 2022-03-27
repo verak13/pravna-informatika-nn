@@ -1,0 +1,11 @@
+U predmetu Horvat protiv Hrvatske, Europski sud za ljudska prava (Četvrti odjel), zasjedajući u vijeću u sastavu: g. G. RESS, predsjednik g. A. PASTOR RIDRUEJO, g. I. CABRAL BARRETO, g. V. BUTKEVYCH, gđa N. VAJIĆ, g. J. HEDIGAN, g. M. PELLONPÄÄ, suci, i g. V. BERGER, tajnik Odjela, nakon vijećanja zatvorenog za javnost održanog 16. studenoga 2000. i 10. srpnja 2001., donosi sljedeću presudu koja je usvojena 10. srpnja 2001. : POSTUPAK 1. Dana 25. kolovoza 1995. odvjetnik podnositeljice zahtjeva obavijestio je sud o adresi B.J.. 19. Sud je pozvao odvjetnika podnositeljice zahtjeva da u roku od 60 dana dostavi točnu adresu B.J.. 27. Dana 13. travnja 2000. sud je ponovno poslao dopis Trgovačkom sudu u Zagrebu želeći doznati da li poduzeće M.J.B. Prema navodima Vlade, na sljedećem ročištu zakazanom za 2. srpnja 1998. sud je donio presudu zbog izostanka protiv B.J.
+s2s-00003000.h5, napusti, greškom, uništenom , oboleo, vere-, tuženih, predstavlja, pretili, {'r': 0.005076142131979695, 'p': 0.1111111111111111, 'f': 0.009708737028466469}
+s2s-00003100.h5, smanjiti, skrb, zato, 1konvencije, roditelje, skrb , vlasništva, {'r': 0.01015228426395939, 'p': 0.25, 'f': 0.019512194371921504}
+s2s-00003200.h5, praznina, osuđene, potpredsednik, solidarnosti , dobrovoljnog, upalu, ljudskih, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003300.h5, domaćem, telesnih, 1997 , pet, ispitivanja) član, starao, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003400.h5, statusa, uspostavljanje, režim, z , sudija, zemljišta, uključuje, {'r': 0.005076142131979695, 'p': 0.125, 'f': 0.009756096810945924}
+s2s-00003500.h5, žive, većine, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003600.h5, puta, bezbednost, uredbu , (brzina, oblasno, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003700.h5, policijskih, poočima, razlozi, odbačena, podnela, planinarskog, {'r': 0.005076142131979695, 'p': 0.14285714285714285, 'f': 0.009803920905901622}
+s2s-00003800.h5, pokušali, uvek, ravnoteža, izdale , utvrđene, (leva), sprovede, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003900.h5, ličnosti“ , doživotnih, lečenje , povrede , pokaže, {'r': 0.005076142131979695, 'p': 0.16666666666666666, 'f': 0.009852216175107413}

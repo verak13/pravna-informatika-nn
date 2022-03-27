@@ -1,0 +1,11 @@
+MCĆ je 29. aprila 2004. godine podnositeljki predstavke dostavio internu evidenciju u prilog dopisu od 12. novembra 2002. godine. Radna grupa je 28. decembra 2010. godine podnela svoj izveštaj Skupštini. Kao odgovor na nalaze i preporuke Izveštaja Skupštine od 14. jula 2006. godine (vidi st. 26. i 27. u gornjem tekstu), Skupština je 5. maja 2010. godine oformila Radnu grupu (vidi stav 28. u gornjem tekstu). Počev od 2001. godine, a posebno od 2002. godine, srpski mediji su počeli da izveštavaju o brojnim slučajevima kao što je slučaj podnositeljke predstavke (vidi, na primer, na http://www.kradjabeba.org, informacija od 29. januara 2013. godine). Pomenuto tužilaštvo je 15. oktobra 2003. godine odbacilo prijavu podnositeljke predstavke kao nepotkrepljenu dokazima, pošto nije bilo dokaza da je njen sin preminuo 31. oktobra 1983. godine.
+s2s-00003000.h5, 29 , francuska, frizera , kamatnu, ukidanja, rečima, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003100.h5, formira, stava, nastavio, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003200.h5, ponovno, podstrekavao, podnositeljki, ostanu, pokreće, hitne, ponovnog, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003300.h5, ročišta, zagrebu, konvencije evropski, proterivanja zaključak:, ukrajinskog, iznose , procesnog, {'r': 0.01282051282051282, 'p': 0.2, 'f': 0.024096384409928923}
+s2s-00003400.h5, presudom, neprihvatljivih, pravnog, banci, ono, ličnosti, delotvornog, kazneni, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003500.h5, činjenične, moguće , zatvorenika, eur , kontaktira, priteran, nezakonito, legitimacije , {'r': 0.01282051282051282, 'p': 0.2222222222222222, 'f': 0.024242423211019326}
+s2s-00003600.h5, izgrađen, trajanja, kolektivnog, planiranja, originalu, pendrecima , rasteglo, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003700.h5, hospitalizacija, raspoloživ, stoga, stanju, 31 , 2006 , {'r': 0.00641025641025641, 'p': 0.14285714285714285, 'f': 0.012269937828296188}
+s2s-00003800.h5, “u, kamata, reči” , prvoj, {'r': 0.0, 'p': 0.0, 'f': 0.0}
+s2s-00003900.h5, otpor, 220 000, delotvorne, strancisud, {'r': 0.00641025641025641, 'p': 0.16666666666666666, 'f': 0.012345678299039821}
