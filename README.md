@@ -14,7 +14,7 @@
 
 ### Skup podataka
 - 400 sudskih presuda sa sažecima na srpskom jeziku preuzetih sa [sajta](https://e-case.eakademija.com/)
-- Za evaluaciju rezultata korišćena je ROUGE metrika.
+- Za evaluaciju rezultata korišćena je ROUGE metrika
 
 ### Pokretanje projekta
 - Za izradu projekta korišćen je Python 3.10 i biblioteke navedene u fajlu requirements.txt
@@ -23,7 +23,7 @@
 - Za pokretanje test modela pokrenuti python skriptu AbstractiveSummarizationSeq2SeqTestModel
 
 ### Rezultati
-- Rezultati testiranja nad test i trening skupom mogu se naći u folderu [*results*](https://github.com/verak13/pravna-informatika-nn/tree/main/LegalCasesSummarization/results/s2s-25-vanilla).
+- Rezultati testiranja nad test i trening skupom mogu se naći u folderu [*results*](https://github.com/verak13/pravna-informatika-nn/tree/main/LegalCasesSummarization/results/s2s-25-vanilla)
 
 ### Članovi tima:
 - [Vera Kovačević R214/2021](https://github.com/verak13)
