@@ -1,0 +1,6 @@
+keras==2.8.0
+Keras_Preprocessing==1.1.2
+networkx==2.7.1
+nltk==3.7
+numpy==1.22.2
+rouge==1.0.1
