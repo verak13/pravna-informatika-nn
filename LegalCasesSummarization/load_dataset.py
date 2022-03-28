@@ -9,7 +9,7 @@ training_dataset = []
 test_dataset = []
 
 
-def read_training_dataset(start = 0, end = 25):
+def read_training_dataset(start=0, end=25):
     training_dataset = []
     print('all files -',os.listdir(original_training))
     for original_filename in os.listdir(original_training):
@@ -74,11 +74,7 @@ def read_test_dataset():
     return training_dataset
 
 
-
-
-
-
-def read_training_dataset_optimized(start = 0, end = 25):
+def read_training_dataset_optimized(start=0, end=25):
     # print('all files -',os.listdir(original_training))
     training_dataset = []
     for original_filename in os.listdir(original_training)[start:end]:
